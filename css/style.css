@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&family=Playwrite+GB+S:ital@1&display=swap');
+
+/* Style the element with the id "Header" */
+#Header {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+
+/* Style all elements with the class name "List" */
+#List {
+  background-color: rgb(255, 71, 71);
+  width: 100%;
+  text-align: center;
+  color: white;
+  padding: 10px;    
+
+} 
+#List a {
+    color: white;
+}
+
+h3 {
+   font-size: 25px;
+   font-family: "Playwrite GB S", cursive;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: italic;
+}
+
+html {
+ background-color: antiquewhite;
+ background-position: left top;
+ background-size: cover;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings: 
+  "wdth" 100;
+}
+
+p {
+  font-size: 20px;
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+  "wdth" 75;
+}
+
+header {
+  font-size: large;
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings: 
+  "wdth" 100;
+}
