@@ -2,7 +2,7 @@
 
 /* Style the element with the id "Header" */
 #Header {
-  background-color: lightblue;
+  background-color: rgb(254, 161, 189);
   color: black;
   padding: 40px;
   text-align: center;
@@ -30,10 +30,11 @@ h3 {
    font-style: italic;
 }
 
-html {
+body {
  background-color: antiquewhite;
- background-position: left top;
+ background-image: url("../pink\ aura\ star\ laptop\ wallpaper\ ˚₊‧꒰ა\ ☆\ ໒꒱\ ‧₊˚.jpg");
  background-size: cover;
+ background-repeat: no-repeat;
 }
 
 h1 {
